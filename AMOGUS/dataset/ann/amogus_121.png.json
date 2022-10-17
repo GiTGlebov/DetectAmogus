@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 655,
+        "width": 680
+    },
+    "objects": [
+        {
+            "id": 1061109498,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:13:15.992Z",
+            "updatedAt": "2022-10-13T08:13:34.268Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        382
+                    ],
+                    [
+                        448,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 680,
+        "width": 680
+    },
+    "objects": [
+        {
+            "id": 1061106683,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:50.147Z",
+            "updatedAt": "2022-10-13T07:53:50.147Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        622
+                    ],
+                    [
+                        653,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106677,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:43.115Z",
+            "updatedAt": "2022-10-13T07:53:43.115Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        466
+                    ],
+                    [
+                        654,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106671,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:36.847Z",
+            "updatedAt": "2022-10-13T07:53:36.847Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        623
+                    ],
+                    [
+                        324,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106651,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:30.887Z",
+            "updatedAt": "2022-10-13T07:53:30.887Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        460
+                    ],
+                    [
+                        326,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106646,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:23.978Z",
+            "updatedAt": "2022-10-13T07:53:23.978Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        310
+                    ],
+                    [
+                        320,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106624,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:53:13.157Z",
+            "updatedAt": "2022-10-13T07:53:13.157Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        156
+                    ],
+                    [
+                        331,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106604,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:52:57.412Z",
+            "updatedAt": "2022-10-13T07:52:57.412Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        522,
+                        136
+                    ],
+                    [
+                        582,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061106596,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T07:52:48.866Z",
+            "updatedAt": "2022-10-13T07:52:48.866Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        140
+                    ],
+                    [
+                        509,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 353,
+        "width": 680
+    },
+    "objects": [
+        {
+            "id": 1061109675,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:16:34.020Z",
+            "updatedAt": "2022-10-13T08:16:34.020Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        57
+                    ],
+                    [
+                        665,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061109665,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:16:23.705Z",
+            "updatedAt": "2022-10-13T08:16:23.705Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        198
+                    ],
+                    [
+                        643,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061109659,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:16:17.988Z",
+            "updatedAt": "2022-10-13T08:16:17.988Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        224
+                    ],
+                    [
+                        457,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061109632,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:16:11.017Z",
+            "updatedAt": "2022-10-13T08:16:11.017Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        143
+                    ],
+                    [
+                        398,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061109622,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:15:59.761Z",
+            "updatedAt": "2022-10-13T08:16:08.520Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        84
+                    ],
+                    [
+                        538,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1061109616,
+            "classId": 10423665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Tigl",
+            "createdAt": "2022-10-13T08:15:50.249Z",
+            "updatedAt": "2022-10-13T08:15:50.249Z",
+            "tags": [],
+            "classTitle": "Amogus",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        134
+                    ],
+                    [
+                        260,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
